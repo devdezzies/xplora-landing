@@ -17,35 +17,35 @@ const prompts: Prompt[] = [
     id: "computing",
     text: "Explain about Djikstra's algorithm",
     videoSrc:
-      "https://pouch.jumpshare.com/preview/-_J9wlwLEOKj9npj-W_w71O136usGpqtBoPUlfh5xAmCd1vjVjf-TXfs3h6lwxZdoxTMSIqv2IXjd8LF0wxDwGU35qAIu59V10RbFc64I5qmN0Qw5igt4GNiMAGEgAdlKvEqTsYBgyGjJKCyFS-5Lm6yjbN-I2pg_cnoHs_AmgI.mp4",
+      "/DijkstraAlgorithmExplained.mp4",
     thumbnail: "/placeholder.svg?height=400&width=600",
   },
   {
     id: "chemistry",
     text: "Explain the concept of Organic Chemistry",
     videoSrc:
-      "https://pouch.jumpshare.com/preview/zRlueg4Kvt3dlWXYyutxK2zPe7zUdycO6DmmimLKrx3Gxba17jdHUlBPQb1vQo8nylEorfITnrVx0bciChEGn_EKdEWb2EmX8v8BxKCEshbkqQW78McD8QhYB4X1WtQut9NWvqlNL_21YYRWx7yLem6yjbN-I2pg_cnoHs_AmgI.mp4",
+      "/OrganicChemistryExplained.mp4",
     thumbnail: "/placeholder.svg?height=400&width=600",
   },
   {
     id: "blockchain",
     text: "Explain the concept of Blockchain Technology",
     videoSrc:
-      "https://pouch.jumpshare.com/preview/ZkEHgpdNOYbxRr7izHnPu2QTmX_TF7N6z9DP2tgPS0NbYiElEI2xKbcBczEDgOcV7UsnyDcpKIDWFa1SJC_JlvO6fv5O1RAahKP-Cz0Ruin7D_LDsfP7tlicLuB5Q4_96OOCVEhfr0i27NtCzpzoR26yjbN-I2pg_cnoHs_AmgI.mp4",
+      "/BlockchainExplained.mp4",
     thumbnail: "/placeholder.svg?height=400&width=600",
   },
   {
     id: "neural",
     text: "Explain the concept of Deep Learning",
     videoSrc:
-      "https://pouch.jumpshare.com/preview/RPUojzEmz1PmK4J-wZhp-XVj5LiNWWH3v6O-gFPDphk8ARocwGPnndLIkAsqn1Z8nkCgCv7xjoCrguxlPTbdabBNxiR3xrmvTyLcwfQ-e3IRh-mq_Z5pfEI7OYARgRoNxsPqDjRZ011fmae78VVvdW6yjbN-I2pg_cnoHs_AmgI.mp4",
+      "/DeepLearningExplained.mp4",
     thumbnail: "/placeholder.svg?height=400&width=600",
   },
   {
     id: "relativity",
     text: "Explain the concept of Theory of Relativity",
     videoSrc:
-      "https://pouch.jumpshare.com/preview/3q4uQJGeVgX7BT0Ogu--6Gs2T2dtyFmVR2Y07gfxuARbkEpm-lJenJpbIBWjOIwN6nnxwNHu2jUGibgQlQKIENLh958WguSnlxG1RqvDD29juHoyrvt75H9nlfW3K89Di50lQskHbCSzxTGJdqHQLG6yjbN-I2pg_cnoHs_AmgI.mp4",
+      "/RelativityExplained.mp4",
     thumbnail: "/placeholder.svg?height=400&width=600",
   },
 ]
